@@ -1,0 +1,3 @@
+/Users/romainbomba/Desktop/2 A I/semestre 3/PokemonCPP/cmake-build-debug/CMakeFiles/PokemonCPP.dir
+/Users/romainbomba/Desktop/2 A I/semestre 3/PokemonCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/romainbomba/Desktop/2 A I/semestre 3/PokemonCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
